@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  app1:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-07-28T16:16:06.2666489+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 08e36f1254a9c01997ed54709c992ce14b0be4db565f44ffa18448bfc3bb1a61
+    name: app1
+    urls:
+    - https://github.com/daminibansalcolortokens/my-helm-charts/releases/download/app1-0.1.0/app1-0.1.0.tgz
+    version: 0.1.0
+  app2:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-07-28T16:16:06.5551846+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 79c93fce57796e8cc2e5ac7ce4b628d2e6062846d66ff8ab1663ad94dafec3f3
+    name: app2
+    urls:
+    - https://github.com/daminibansalcolortokens/my-helm-charts/releases/download/app2-0.1.0/app2-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-28T16:16:05.7405229+05:30"
